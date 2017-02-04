@@ -6,7 +6,7 @@
 $(document).ready(function(){  
 
   //Smooth scrool
-  $("html").niceScroll({styler:"fb",cursorcolor:"#DE1B1B"}); //Line COLOR
+  $("html").niceScroll({styler:"fb",cursorcolor:"#00"}); //Side scroll bar
 
   //Side menu - Open
   $('.side-menu-open').on('mouseenter', function () {

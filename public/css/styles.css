@@ -535,7 +535,7 @@ p {
   background: #fafafa;
 }
 .timeline-progress {
-  background: url('../img/timeline-bg.png') repeat-x center center fixed #249991;
+  background: url('../img/timeline-bg.png') repeat-x center center fixed #DE1B1B; //CHANGED
   position: relative;
 }
 .timeline-progress:before {
