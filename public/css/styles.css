@@ -499,10 +499,10 @@ p {
   -webkit-border-radius: 100%;
   width: 210px;
   height: 210px;
-  border: 5px solid #249991;
+  border: 5px solid #ce5f5f; //CHANGED
   overflow: hidden;
   margin: 0 auto;
-  background: #ce5f5f; //CHANGED
+  background: #fafafa; //CHANGED
 }
 .profile-pic img {
   width: 188px;
