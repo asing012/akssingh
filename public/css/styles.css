@@ -153,7 +153,7 @@ h3 {
 }
 /* ==========================================================
 ! 2. Tipography
-========================================================== */
+================================= */
 p {
   color: #555555;
 }
@@ -171,7 +171,7 @@ p {
   font-size: 36px;
   color: #444444;
   letter-spacing: -1pt;
-  border-bottom: 1px solid #249991;
+  border-bottom: 1px solid #ce5f5f; //CHANGED
   padding-bottom: 10px;
   font-weight: 200;
   margin-top: 15px;
