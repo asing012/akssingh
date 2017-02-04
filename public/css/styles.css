@@ -502,7 +502,7 @@ p {
   border: 5px solid #249991;
   overflow: hidden;
   margin: 0 auto;
-  background: #fafafa;
+  background: #ce5f5f; //CHANGED
 }
 .profile-pic img {
   width: 188px;
@@ -535,7 +535,7 @@ p {
   background: #fafafa;
 }
 .timeline-progress {
-  background: url('../img/timeline-bg.png') repeat-x center center fixed #DE1B1B; //CHANGED
+  background: url('../img/timeline-bg.png') repeat-x center center fixed #ce5f5f; //CHANGED
   position: relative;
 }
 .timeline-progress:before {
